@@ -1,0 +1,15 @@
+.bdRow {
+    border: 2px solid goldenrod;
+}
+
+.bdCol {
+    border: 1px solid gray;
+}
+
+.pinkBdr{
+    border: 2px solid pink;
+}
+
+.rdClr{
+    color:red;
+}
